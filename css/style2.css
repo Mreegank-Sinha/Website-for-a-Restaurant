@@ -1,0 +1,27 @@
+.container1 {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  /* Top left text */
+  .top-left {
+    position: absolute;
+    top: 20%;
+    bottom: 50%;
+    left: 10%;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: bisque;
+
+  }
+  .top-left button{
+    background-color: red;
+    width: 170px;
+    height: 50px;
+    border-radius: 50px;
+    border-color: red;
+    font-size: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
